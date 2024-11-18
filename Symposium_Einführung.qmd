@@ -1,0 +1,290 @@
+---
+title: "Förderung evidenzinformierter Enscheidungen von Lehrkräften"
+subtitle: "Symposium"
+author: Kirstin Schmidt & Samuel Merk | 
+institute: Pädagogische Hochschule Karlsruhe
+logo: img/ph-logo.svg
+picture: img/KA.jpeg
+date: today
+lang: de
+date-format: "dddd, [den] D. MMMM, YYYY"
+embed-resources: false
+format: rlille-revealjs
+lightbox: true
+bibliography: references.bib
+csl: apa.csl
+title-slide-attributes: 
+  data-notes: 
+  - freue mich heute spannendes Symposium
+---
+
+## Überblick {.smaller}
+
+```{r }
+#| label: libraries
+#| echo: false
+
+# z.B. library(tidyverse)
+
+
+```
+
+| {{< iconify fluent-emoji-high-contrast:newspaper >}} | Einführung |
+|-----------------------------------:|:-----------------------------------|
+| {{< iconify fa-solid:school >}} | Evidenzinformierte Schulpraxis |
+| {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation |
+| {{< iconify ri:presentation-fill >}} | Beiträge im Symposium |
+
+: {#tbl-agenda tbl-colwidths="\[15,85\]"}
+
+<!-- style the agenda table -->
+
+<style>
+#tbl-agenda table th {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda table td {
+font-weight: normal !important;
+border: none !important;
+}
+</style>
+
+::: footer
+{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> XXX
+:::
+
+
+::: notes
+
+- zunächst in das Thema einführen
+
+::: 
+
+
+## Informationsquellen
+
+episodische Evidenz -> situatives Handeln 
+Daten
+wissenschaftliches Wissen -> konzeptuelle Entscheidungen
+  - Ergebnisse
+  - Theorien
+<!-- 
+## Forschungsergebnisse aus den Bildungswissenschaften {{< iconify stash:light-bulb >}} {.smaller} 
+
+:::::::::: columns
+::::: {.column width="50%"}
+::: fragment
+::: r-stack
+![](img/g8g9_1.png){.lightbox width="50%" fig-align="center"} ![](img/g8g9_3.png){.lightbox width="40%" fig-align="center"}
+
+![](img/g8g9_2.png){.lightbox width="30%" fig-align="center"}
+:::
+
+[@hubner2022; @trautwein2015; @homuth2017]
+:::
+
+::: fragment
+<br>
+&rarr; Forschungsergebnisse, die politisches Handeln informieren können (Makroebene)
+:::
+:::::
+
+:::::: {.column width="50%"}
+:::: fragment
+::: r-stack
+![](img/Paper_Retrieval%20practice.png){.lightbox width="50%" fig-align="right"}
+
+![](img/CHU_Forschendes%20Lernen.png){.lightbox width="40%" fig-align="left"}
+
+:::
+[@adesope2017; @knogler2017]
+
+::::
+
+::: fragment
+<br>
+&rarr; Forschungsergebnisse, die Handeln der Lehrpersonen informieren können (Mikroebene)
+:::
+::::::
+::::::::::
+
+::: notes
+- es gibt eine Vielzahl an bildungswissenschaftlichen Forschungsergebnissen - alleine wir im Raum beschäftigen uns mit ganz unterschiedlichen Themen
+- manche sind proximaler zum Handeln von Lehrpersonen, manche distale
+  + wenn wir an Studien z.B. zum Thema G8, G9 denken Infos für die Bildungspolitik -> Makroebene 
+-   wohingegen Befunde zu Themen wie retrieval practice, Forschendes Lernen die Unterrichtsgestaltung von Lehrpersonen oder das Handeln im Untericht beeinflussen können // unterschiedlich in der Praxis genutzt werden
+    -   Evidenz z.B. zu Forschendem Lernen kann die eigene Unterrichtspraxis innovieren
+    -   Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
+    - problematische Situation
+    
+- dazu werden Lehrpersonen von Stakeholdern aufgefordert
+
+:::
+
+--> 
+
+
+# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+
+::: notes
+-   in dem Diskurs evidenzinformierte Schulpraxis zu verorten
+
+Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbedingungen und Barrieren des Wissenschaft-Praxis-Kommunikationsprozesses auf Angebots- und Nutzendenseite untersuchen. 
+:::
+
+# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+
+::: notes
+-   in dem Diskurs evidenzinformierte Schulpraxis zu verorten
+
+:::
+
+## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
+
+::::::: columns
+:::: {.column width="50%"}
+::: r-stack
+![](img/Paper_Retrieval%20practice.png){width="90%" fig-align="center"}
+
+![](img/CHU_Forschendes%20Lernen.png){.lightbox width="70%" fig-align="center"}
+:::
+::::
+
+:::: {.column width="50%"}
+::: fragment
+<br> <br> <br> Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; @doering2016]
+:::
+::::
+:::::::
+
+::: fragment
+<center>{{< iconify octicon:goal-16 >}} Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung <br> [z.B. @bell2010; @double2020; @filderman2018; @coldwell2017; @kennedy2017]</center>
+:::
+
+::: notes
+
+- es gibt eine Vielzahl an bildungswissenschaftlichen Forschungsergebnissen - alleine wir im Raum beschäftigen uns mit ganz unterschiedlichen Themen
+- manche sind proximaler zum Handeln von Lehrpersonen, manche distale
+  + wenn wir an Studien z.B. zum Thema G8, G9 denken Infos für die Bildungspolitik -> Makroebene 
+-   wohingegen Befunde zu Themen wie retrieval practice, Forschendes Lernen die Unterrichtsgestaltung von Lehrpersonen oder das Handeln im Untericht beeinflussen können // unterschiedlich in der Praxis genutzt werden
+    -   Evidenz z.B. zu Forschendem Lernen kann die eigene Unterrichtspraxis innovieren
+    -   Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
+    
+- dazu werden Lehrpersonen von Stakeholdern aufgefordert
+
+-   die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
+    -   Evidenz ist im Vergleich zu bespielsweise eigenen Erfahrungen als objektivere Informationsquelle anzusehen
+    -   Da die Information systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
+    -   Ihr wird daher Potenzial zugeschrieben
+        -   Professionalisierung von Lehrpersonen stärken
+        -   Unterrichts- und Schulqualität
+        -   letztlich Schüler:innenleistung steigern kann
+    -   was auch mit ersten empirischen Studien belegt werden kann
+
+:::
+
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
+
+<center>
+![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox fig-align="center"}
+</center>
+
+* verschiedene Einflussfaktoren wie
+  + zeitliche Ressourcen
+  + INGO KOLLAR BEISPIEL
+  + Nützlichkeitseinschätzungen
+  + methodisches Wissen
+  + Verständliche Aufbereitung
+  
+
+
+<!-- @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023 -->
+
+
+::: notes
+-   wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
+-   Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
+-   was nicht nur auf ihre Kompetenzen und Überzeugungen - also die individuelle Ebene der Lehrpersonen zurückzuführen ist, sondern empirisch zeigen sich vielzählige Barrieren, die unterschiedlichen Ebenen zugeordnet werden können
+    -   neben der Ebene der individuellen Lehrperson
+    -   Ebene der Forschungswissens. Ein Beispiel: Forschungsergebnisse sind durch die Verwendung zahlreicher Fachbegriffe z.B. statistischer Fachtermini schwer verständlich
+    -   Schule z.B. Rahmenbedingungen an der Schule, um sich mit Wissenschaft auseinanderzusetzen
+    -   Kommunikation: Kooperation zwischen Wissenschaftler:innen und Praktiker:innen im Forschungsprozess
+
+:::
+
+
+
+## Barrieren und Katalysatoren {{< iconify fluent-mdl2:processing >}} {.smaller}
+
+<center>
+![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
+</center>
+
+|             |Katalysator | Barriere |
+|-------------|-------------|-------------|
+||||
+
+
+
+## Barrieren und Katalysatoren {{< iconify fluent-mdl2:processing >}} {.smaller}
+
+<center>
+![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
+</center>
+
+
+|             |Katalysator | Barriere |
+|-------------|-------------|-------------|
+| __Nutzende__ | z.B. forschungsmethodisches Wissen | z.B. geringe Nützlichkeitsüberzeugungen| 
+
+
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}} {.smaller}
+
+<center>
+![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
+</center>
+
+|             |Katalysator | Barriere |
+|-------------|-------------|-------------|
+| __Nutzende__ | z.B. forschungsmethodisches Wissen | z.B. geringe Nützlichkeitsüberzeugungen|
+| __Angebot__ | z.B. verständliche Beschreibung der Untersuchungsergebnissse | z.B. Beschreibungen, die  »Practical Significance Bias« (Michal & Shah, 2024) auslösen|
+
+
+(vgl. systematische Reviews @schaik2018; @dagenais2012; @hemsley-brown2003; @schmidt2024)
+
+## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
+
+<br>
+
+**Verschiedene Ansätze:**
+
+::: incremental
+-   Professionalisierung der (angehenden) Lehrpersonen [z.B. @böttcher-oschmann2021; @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @reuter2023]
+
+-   Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]
+:::
+
+::: notes
+-   in der Literatur finden sich mittlerweile unterschiedliche Ansätze um Barrieren in Gelingensbedingungen umzuwandeln
+-   Diese können wieder in die vier Ebenen - Lehrperson, Forschungswissen, Schule, Kommunikation-, die ich gerade genannt habe, unterteilt werden oder noch übergreifender in zwei Ansätze gegliedert werden
+    -   Professionalisierung der Lehrpersonen ansetzen, indem gezielt Kompetenzen, die Realisierung EIP notwendig sind, gefördert werden
+    -   Gestaltung der WK
+:::
+
+
+
+## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
+
+Angebotsseite:
+* __Beitrag 1:__ Effektstärken verständlich an Lehrpersonen kommunizieren von Florian Kühlwein und Kolleg:innen
+
+Nutzendenseite: 
+* __Beitrag 2:__ Förderung evidenzorientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback von Ingo Kollar und Kolleg:innen -> Katalysator
+
+* __Beitrag 3:__ Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissenschaftlicher Evidenz, oder doch? -> Barriere
+
+* __Diskussion:__ Ulrich Trautwein 
+
+## Referenzen
