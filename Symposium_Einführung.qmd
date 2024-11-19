@@ -1,7 +1,7 @@
 ---
-title: "Förderung evidenzinformierter Enscheidungen von Lehrkräften"
+title: "Förderung evidenzinformierter Entscheidungen von Lehrkräften"
 subtitle: "Symposium"
-author: Kirstin Schmidt & Samuel Merk | 
+author: Kirstin Schmidt & Samuel Merk (Chairs) | 
 institute: Pädagogische Hochschule Karlsruhe
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
@@ -18,7 +18,7 @@ title-slide-attributes:
   - freue mich heute spannendes Symposium
 ---
 
-## Überblick {.smaller}
+## Überblick
 
 ```{r }
 #| label: libraries
@@ -29,10 +29,10 @@ title-slide-attributes:
 
 ```
 
-| {{< iconify fluent-emoji-high-contrast:newspaper >}} | Einführung |
-|-----------------------------------:|:-----------------------------------|
 | {{< iconify fa-solid:school >}} | Evidenzinformierte Schulpraxis |
-| {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation |
+|-----------------------------------:|:-----------------------------------|
+| {{< iconify fluent-mdl2:processing >}} | Idealtypischer Prozess evidenzinformierten Handelns |
+| {{< iconify solar:plus-minus-bold >}} |  Katalysatoren und Barrieren|
 | {{< iconify ri:presentation-fill >}} | Beiträge im Symposium |
 
 : {#tbl-agenda tbl-colwidths="\[15,85\]"}
@@ -63,13 +63,14 @@ border: none !important;
 ::: 
 
 
-## Informationsquellen
+## Informationsquellen {{< iconify entypo:documents >}} 
 
-episodische Evidenz -> situatives Handeln 
-Daten
-wissenschaftliches Wissen -> konzeptuelle Entscheidungen
+* episodische Evidenz -> situatives Handeln 
+* Daten -> Monitoring der Leistungsentwicklung
+* wissenschaftliches Wissen -> konzeptuelle Entscheidungen
   - Ergebnisse
   - Theorien
+  
 <!-- 
 ## Forschungsergebnisse aus den Bildungswissenschaften {{< iconify stash:light-bulb >}} {.smaller} 
 
@@ -126,13 +127,6 @@ wissenschaftliches Wissen -> konzeptuelle Entscheidungen
 --> 
 
 
-# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
-
-::: notes
--   in dem Diskurs evidenzinformierte Schulpraxis zu verorten
-
-Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbedingungen und Barrieren des Wissenschaft-Praxis-Kommunikationsprozesses auf Angebots- und Nutzendenseite untersuchen. 
-:::
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
 
@@ -185,31 +179,27 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 
 :::
 
-## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
 
 <center>
-![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox fig-align="center"}
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="80%" fig-align="center"}
 </center>
 
+::: fragment
+<center>
+[{{< iconify ion:warning >}}]{style="color:#96412D;"} Idealtypischer Prozess [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} Umsetzung durch Lehrpersonen [{{< iconify ion:warning >}}]{style="color:#96412D;"}
+</center>
+:::
 
-## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken (vgl. z.B. systematische Reviews @schaik2018, @dagenais2012, @hemsley-brown2003, @schmidt2024)
 
 <center>
-![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="50%" fig-align="center"}
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_Einflussfaktoren_gesamt.png){.lightbox width="55%" fig-align="center"}
 </center>
 
-
-::: {.incremental}
-* verschiedene Einflussfaktoren wie
-  + zeitliche Ressourcen
-  + INGO KOLLAR BEISPIEL
-  + Nützlichkeitseinschätzungen
-  + methodisches Wissen
-  + Zugang zur Information
-  + Verständliche Aufbereitung
-  + ...
-
-::: 
 
 
 <!-- @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023 -->
@@ -227,8 +217,18 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 :::
 
 
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
 
-## Barrieren und Katalysatoren {{< iconify fluent-mdl2:processing >}} {.smaller}
+
+> Einflussfaktoren, , die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden (@schmidt2024)
+
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_test.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+<!--
+
+## Katalysatoren und Barrieren {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
@@ -240,7 +240,7 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 
 
 
-## Barrieren und Katalysatoren {{< iconify fluent-mdl2:processing >}} {.smaller}
+## Katalysatoren und Barrieren {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
@@ -264,9 +264,7 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 | __Angebot__ | z.B. verständliche Beschreibung der Untersuchungsergebnissse | z.B. Beschreibungen, die  »Practical Significance Bias« (Michal & Shah, 2024) auslösen|
 
 
-(vgl. systematische Reviews @schaik2018; @dagenais2012; @hemsley-brown2003; @schmidt2024)
 
-<!-- 
 ## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
 
 <br>
@@ -291,14 +289,28 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 
 ## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
 
-Angebotsseite:
-* __Beitrag 1:__ Effektstärken verständlich an Lehrpersonen kommunizieren von Florian Kühlwein und Kolleg:innen
+::: {style="font-size: 0.75em"}
+<table style = "width:100%;">
+  <tr>
+    <th style = "width:20%;"></th>
+    <th style = "width:40%;">Katalysatoren</th>
+    <th style = "width:40%;">Barrieren</th>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Nutzende__</td>
+    <td style = "width:40%;">__Beitrag 2:__ <br>
+    *»Förderung evidenz-<br>orientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback«* <br> von Ingo Kollar und Kolleg:innen</td>
+    <td style = "width:40%;">__Beitrag 3:__ <br> *»Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissen-schaftlicher Evidenz, oder doch?«* <br> von Michael Rochnia und Kolleg:innen</td>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Angebot__</td>
+    <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
+  </tr>
+</table>
 
-Nutzendenseite: 
-* __Beitrag 2:__ Förderung evidenzorientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback von Ingo Kollar und Kolleg:innen -> Katalysator
+<center> ![](img/Klammer.png){width="40%"} </center>
 
-* __Beitrag 3:__ Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissenschaftlicher Evidenz, oder doch? -> Barriere
-
-* __Diskussion:__ Ulrich Trautwein 
+<center> __Diskussion:__ Ulrich Trautwein </center>
+:::
 
 ## Referenzen
