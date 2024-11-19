@@ -185,19 +185,31 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 
 :::
 
-## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
 
 <center>
 ![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox fig-align="center"}
 </center>
 
+
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
+
+<center>
+![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="50%" fig-align="center"}
+</center>
+
+
+::: {.incremental}
 * verschiedene Einflussfaktoren wie
   + zeitliche Ressourcen
   + INGO KOLLAR BEISPIEL
   + Nützlichkeitseinschätzungen
   + methodisches Wissen
+  + Zugang zur Information
   + Verständliche Aufbereitung
-  
+  + ...
+
+::: 
 
 
 <!-- @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023 -->
@@ -254,6 +266,7 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
 
 (vgl. systematische Reviews @schaik2018; @dagenais2012; @hemsley-brown2003; @schmidt2024)
 
+<!-- 
 ## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
 
 <br>
@@ -273,6 +286,7 @@ Es enthält neben einer theoretischen Rahmung drei Experimente, die Gelingensbed
     -   Gestaltung der WK
 :::
 
+--> 
 
 
 ## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
