@@ -1,5 +1,5 @@
 ---
-title: "Förderung evidenzinformierter Entscheidungen von Lehrkräften"
+title: "Förderung evidenzinformierter Handlungen von Lehrkräften"
 subtitle: "Symposium"
 author: Kirstin Schmidt & Samuel Merk (Chairs) | 
 institute: Pädagogische Hochschule Karlsruhe
@@ -65,11 +65,22 @@ border: none !important;
 
 ## Informationsquellen {{< iconify entypo:documents >}} 
 
-* episodische Evidenz -> situatives Handeln 
+* Episodische Evidenz -> situatives Handeln 
 * Daten -> Monitoring der Leistungsentwicklung
-* wissenschaftliches Wissen -> konzeptuelle Entscheidungen
+* Wissenschaftliches Wissen -> konzeptuelle Entscheidungen
   - Ergebnisse
   - Theorien
+  
+::: notes
+
+- Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
+- je nach Anliegen, unterschiedliche Informationsquellen geeignet 
+- Muss eine Lehrkraft unter Druck handeln, situativ entscheiden, dann eignet sich vor allem Ihre eigene Erfahrung / episodische Evidenz
+- wenn Sie die Schüler:innenleistung monitoren möchte, um mehr über ihre die Lernverläufe zu erfahren, dann Daten
+- wissenschaftliches Wissen hingegen eignet sich bei konzeptuellen Entscheidungen
+  + z.B. X empirische Ergebnisse
+  + z.B. Y Theorie
+:::
   
 <!-- 
 ## Forschungsergebnisse aus den Bildungswissenschaften {{< iconify stash:light-bulb >}} {.smaller} 
