@@ -242,10 +242,8 @@ border: none !important;
   + Schlussfolgerung
   + Anwendung
 
-- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch ...
 ::: 
 
-<!--
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -253,7 +251,7 @@ border: none !important;
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken (vgl. z.B. systematische Reviews @schaik2018, @dagenais2012, @hemsley-brown2003, @schmidt2024)
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Reflexion.png){.lightbox width="80%" fig-align="center"}
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Reflexion.png){.lightbox width="70%" fig-align="center"}
 </center>
 
 ::: notes
@@ -261,11 +259,11 @@ border: none !important;
 - Reflexionsfähigkeit 
 
 
-- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch inn 
+- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch ...
 
 ::: 
 
----> 
+
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
 
