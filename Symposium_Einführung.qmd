@@ -90,9 +90,9 @@ border: none !important;
 
 - Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
 - je nach Anliegen, unterschiedliche Informationsquellen geeignet 
-- Bei situativen Entscheidungen eignet sich eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
+- Bei situativen Entscheidungen eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
   + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich sonst selten meldt)
-- wenn eine Lehrperson Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
+- wenn eine Lehrperson die Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
 - wissenschaftliches Wissen hingegen können Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
   + z.B. Probetest als Vorbereitung auf Klassenarbeit 
 
