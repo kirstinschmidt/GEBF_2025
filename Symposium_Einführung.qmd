@@ -1,7 +1,7 @@
 ---
 title: "Förderung evidenzinformierter Handlungen von Lehrkräften"
 subtitle: "Symposium | GEBF 2025"
-author: Kirstin Schmidt & Samuel Merk (Chairs) | 
+author: Samuel Merk & Kirstin Schmidt (Chairs) | 
 institute: Pädagogische Hochschule Karlsruhe
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
@@ -15,8 +15,7 @@ bibliography: references.bib
 csl: apa.csl
 title-slide-attributes: 
   data-notes: 
-  - freue mich heute spannendes Symposium
-  - Idee theoretische Einführung, die alle empirischen Beiträge rahmt
+  - freue mich heute spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
 ## Überblick
@@ -59,8 +58,6 @@ border: none !important;
 
 ::: notes
 
-- zunächst in das Thema einführen
-
 ::: 
 
 
@@ -93,12 +90,11 @@ border: none !important;
 
 - Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
 - je nach Anliegen, unterschiedliche Informationsquellen geeignet 
-- Bei situativen Entscheidungen eignet sich eigene Erfahrung / episodische Evidenz
-- wenn Sie die Schüler:innenleistung monitoren möchte, um mehr über ihre die Lernverläufe zu erfahren, dann Daten
-- wissenschaftliches Wissen hingegen eignet sich bei konzeptuellen Entscheidungen z.B. Unterrichtsplanung
-  + z.B. X empirische Ergebnisse
-  + Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
-  + z.B. Y Theorie
+- Bei situativen Entscheidungen eignet sich eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
+  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich sonst selten meldt)
+- wenn eine Lehrperson Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
+- wissenschaftliches Wissen hingegen können Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
+  + z.B. Probetest als Vorbereitung auf Klassenarbeit 
 
 - fokussieren sich L. auf wissenschaftliche Evidenz -> EISP
 :::
@@ -132,15 +128,13 @@ border: none !important;
 
 ::: notes
 
--   die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
-    -   Evidenz ist im Vergleich zu bespielsweise eigenen Erfahrungen als objektivere Informationsquelle anzusehen
-    -   Da die Information systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
-    -   Ihr wird daher Potenzial zugeschrieben
-        -   Professionalisierung von Lehrpersonen stärken
-        -   Unterrichts- und Schulqualität
-        -   letztlich Schüler:innenleistung steigern kann
-    -   was auch mit ersten empirischen Studien belegt werden kann
-
+- die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
+  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
+- Ihr wird daher Potenzial zugeschrieben
+  + Professionalisierung von Lehrpersonen stärken
+  + Unterrichts- und Schulqualität
+  + letztlich Schüler:innenleistung steigern kann
+- was auch mit ersten empirischen Studien belegt werden kann
 :::
 
 ## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
@@ -157,11 +151,11 @@ border: none !important;
 
 ::: notes
 
-- L. müssen verschiedene Schritte durchlaufen, um evidenzinformiert zu handeln
+- L. müssen verschiedene Schritte durchlaufen, um evidenzinformiert zu handeln: verschiedenen Phasen erläutern
 
 - wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
 - Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
-- daher Fokus, Faktoren, die Realisieren EISP erschweren bzw. erleichtern
+- daher Forschung nötig, die Faktoren identifiziert, die LuL das Realisieren EISP erschweren bzw. erleichtern
 
 ::: 
 
@@ -248,7 +242,7 @@ border: none !important;
   + Schlussfolgerung
   + Anwendung
 
-- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch inn 
+- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch ...
 ::: 
 
 <!--
@@ -276,17 +270,21 @@ border: none !important;
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
 
 
-> Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden (@schmidt2024)
+> Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden [@schmidt2024]
 
 <center>
 ![](img/Angebot-Nutzungsmodell.png){.lightbox width="50%" fig-align="center"}
 </center>
 
 ::: notes
-- der Angebots oder Nutzenden-Seite zuordnen
+... der Angebots oder Nutzenden-Seite zuordnen
 
-
-- 
+- Nutzendenseite bspw. Nützlichkeitseinschätzungen wissenschaftlicher Evidenz oder forschungsmethodisches Wissen
+- Angebot hingegen, ist Evidenz zugänglich und wie ist sie aufbereitet
+- beide Seiten können sich gegenseitig beeinflussen
+  + ADD Beispiel
+- EISP als Interaktion dieser beiden Seiten zu verstehen
+- Im Symposium sowohl die Nutzenden als auch Angebotsseite und Fokus sowohl auf Katalysatoren als auch Barrieren
 
 ::: 
 
@@ -310,6 +308,13 @@ border: none !important;
 
 :::
 
+::: notes
+
+- erster Beitrag: Kollege Florian Kühlwein explorativen Zugang 
+  + Aufbereitung von statistischen Ergebnissen - Effektstärken - Katalysator oder Barriere?
+
+::: 
+
 ## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
 
 ::: {style="font-size: 0.75em"}
@@ -329,6 +334,12 @@ border: none !important;
     <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
   </tr>
 </table>
+
+:::
+
+::: notes
+
+- im 2. Beitrag springen wir zur Nutzendenseite 
 
 :::
 
@@ -352,6 +363,13 @@ border: none !important;
     <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
   </tr>
 </table>
+
+:::
+
+
+::: notes
+
+- dritte Beitrag beleuchtet ebenfalls Nutzendenseite, nimmt aber eine Barriere in den Blick: die gering ausgeprägten Nützlichkeitseinschätzungen
 
 :::
 
@@ -380,5 +398,14 @@ border: none !important;
 
 <center> __Diskussion:__ Ulrich Trautwein </center>
 :::
+
+
+::: notes
+
+- alle Beiträge 20 Minuten Zeit
+- ich freue mich sehr darauf, dass wir wie eingangs erwähnt Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge kritisch diskutiert
+
+:::
+
 
 ## Referenzen
