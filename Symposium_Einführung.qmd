@@ -137,7 +137,7 @@ border: none !important;
 - was auch mit ersten empirischen Studien belegt werden kann
 :::
 
-## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
 
 <center>
 ![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="70%" fig-align="center"}
