@@ -1,13 +1,13 @@
 ---
 title: "Förderung evidenzinformierter Handlungen von Lehrkräften"
-subtitle: "Symposium"
+subtitle: "Symposium | GEBF 2025"
 author: Kirstin Schmidt & Samuel Merk (Chairs) | 
 institute: Pädagogische Hochschule Karlsruhe
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
 date: today
 lang: de
-date-format: "dddd, [den] D. MMMM, YYYY"
+date-format: "[Mittwoch, den 29. Januar 2025]"
 embed-resources: false
 format: rlille-revealjs
 lightbox: true
@@ -16,6 +16,7 @@ csl: apa.csl
 title-slide-attributes: 
   data-notes: 
   - freue mich heute spannendes Symposium
+  - Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
 ## Überblick
@@ -65,84 +66,48 @@ border: none !important;
 
 ## Informationsquellen {{< iconify entypo:documents >}} 
 
-* Episodische Evidenz -> situatives Handeln 
-* Daten -> Monitoring der Leistungsentwicklung
-* Wissenschaftliches Wissen -> konzeptuelle Entscheidungen
-  - Ergebnisse
-  - Theorien
+::: .r-stack
+
+::: fragment
+<div style="position: absolute; top: 75px; left: 20px;">
+![Episodische Evidenz (Visualisierung erstellt mit Copilot)](img/Klassenzimmer.png){width="330"} 
+</div>
+
+
+::: 
+
+::: fragment
+<div style="position: absolute; top: 270px; right: 80px;">
+![Daten (Visualisierung aus QUOP; https://www.quop.de/de/start/)](img/Quop_Lernverlaufsdiagnostik.png){width="400"} </div>
+:::
+
+::: fragment
+<div style="position: absolute; top: 400px; left: 230px;">
+![Wissenschaftliche Evidenz [@adesope2017]](img/Paper_Retrieval%20practice.png){width="300"} 
+</div>
+:::
+
+:::
   
 ::: notes
 
 - Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
 - je nach Anliegen, unterschiedliche Informationsquellen geeignet 
-- Muss eine Lehrkraft unter Druck handeln, situativ entscheiden, dann eignet sich vor allem Ihre eigene Erfahrung / episodische Evidenz
+- Bei situativen Entscheidungen eignet sich eigene Erfahrung / episodische Evidenz
 - wenn Sie die Schüler:innenleistung monitoren möchte, um mehr über ihre die Lernverläufe zu erfahren, dann Daten
-- wissenschaftliches Wissen hingegen eignet sich bei konzeptuellen Entscheidungen
+- wissenschaftliches Wissen hingegen eignet sich bei konzeptuellen Entscheidungen z.B. Unterrichtsplanung
   + z.B. X empirische Ergebnisse
+  + Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
   + z.B. Y Theorie
+
+- fokussieren sich L. auf wissenschaftliche Evidenz -> EISP
 :::
   
-<!-- 
-## Forschungsergebnisse aus den Bildungswissenschaften {{< iconify stash:light-bulb >}} {.smaller} 
-
-:::::::::: columns
-::::: {.column width="50%"}
-::: fragment
-::: r-stack
-![](img/g8g9_1.png){.lightbox width="50%" fig-align="center"} ![](img/g8g9_3.png){.lightbox width="40%" fig-align="center"}
-
-![](img/g8g9_2.png){.lightbox width="30%" fig-align="center"}
-:::
-
-[@hubner2022; @trautwein2015; @homuth2017]
-:::
-
-::: fragment
-<br>
-&rarr; Forschungsergebnisse, die politisches Handeln informieren können (Makroebene)
-:::
-:::::
-
-:::::: {.column width="50%"}
-:::: fragment
-::: r-stack
-![](img/Paper_Retrieval%20practice.png){.lightbox width="50%" fig-align="right"}
-
-![](img/CHU_Forschendes%20Lernen.png){.lightbox width="40%" fig-align="left"}
-
-:::
-[@adesope2017; @knogler2017]
-
-::::
-
-::: fragment
-<br>
-&rarr; Forschungsergebnisse, die Handeln der Lehrpersonen informieren können (Mikroebene)
-:::
-::::::
-::::::::::
-
-::: notes
-- es gibt eine Vielzahl an bildungswissenschaftlichen Forschungsergebnissen - alleine wir im Raum beschäftigen uns mit ganz unterschiedlichen Themen
-- manche sind proximaler zum Handeln von Lehrpersonen, manche distale
-  + wenn wir an Studien z.B. zum Thema G8, G9 denken Infos für die Bildungspolitik -> Makroebene 
--   wohingegen Befunde zu Themen wie retrieval practice, Forschendes Lernen die Unterrichtsgestaltung von Lehrpersonen oder das Handeln im Untericht beeinflussen können // unterschiedlich in der Praxis genutzt werden
-    -   Evidenz z.B. zu Forschendem Lernen kann die eigene Unterrichtspraxis innovieren
-    -   Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
-    - problematische Situation
-    
-- dazu werden Lehrpersonen von Stakeholdern aufgefordert
-
-:::
-
---> 
-
-
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
 
 ::: notes
--   in dem Diskurs evidenzinformierte Schulpraxis zu verorten
+- Fokus des heutigene Symposiums
 
 :::
 
@@ -150,16 +115,13 @@ border: none !important;
 
 ::::::: columns
 :::: {.column width="50%"}
-::: r-stack
-![](img/Paper_Retrieval%20practice.png){width="90%" fig-align="center"}
 
-![](img/CHU_Forschendes%20Lernen.png){.lightbox width="70%" fig-align="center"}
-:::
+![](img/Paper_Retrieval%20practice.png){width="90%" fig-align="center"}
 ::::
 
 :::: {.column width="50%"}
 ::: fragment
-<br> <br> <br> Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; @doering2016]
+<br> <br> <br> <br> Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; @doering2016]
 :::
 ::::
 :::::::
@@ -169,15 +131,6 @@ border: none !important;
 :::
 
 ::: notes
-
-- es gibt eine Vielzahl an bildungswissenschaftlichen Forschungsergebnissen - alleine wir im Raum beschäftigen uns mit ganz unterschiedlichen Themen
-- manche sind proximaler zum Handeln von Lehrpersonen, manche distale
-  + wenn wir an Studien z.B. zum Thema G8, G9 denken Infos für die Bildungspolitik -> Makroebene 
--   wohingegen Befunde zu Themen wie retrieval practice, Forschendes Lernen die Unterrichtsgestaltung von Lehrpersonen oder das Handeln im Untericht beeinflussen können // unterschiedlich in der Praxis genutzt werden
-    -   Evidenz z.B. zu Forschendem Lernen kann die eigene Unterrichtspraxis innovieren
-    -   Evidenz kann aber auch genutzt werden, um Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen oder auf eine Klausur vorbereiten, indem man eine Probeklausur schreibt
-    
-- dazu werden Lehrpersonen von Stakeholdern aufgefordert
 
 -   die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
     -   Evidenz ist im Vergleich zu bespielsweise eigenen Erfahrungen als objektivere Informationsquelle anzusehen
@@ -193,7 +146,7 @@ border: none !important;
 ## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="80%" fig-align="center"}
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="70%" fig-align="center"}
 </center>
 
 ::: fragment
@@ -202,101 +155,160 @@ border: none !important;
 </center>
 :::
 
+::: notes
+
+- L. müssen verschiedene Schritte durchlaufen, um evidenzinformiert zu handeln
+
+- wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
+- Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
+- daher Fokus, Faktoren, die Realisieren EISP erschweren bzw. erleichtern
+
+::: 
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+::: fragment
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zeit.png){.lightbox width="70%" fig-align="center"}
+</center>
+
+::: 
+
+
+::: notes
+- Systematische Reviews zeigen, dass sehr vielfältig sind und in den verschiedenen Phasen zum Tragen kommen 
+  + gängig Zeit 
+
+:::
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zugänglichkeit.png){.lightbox width="70%" fig-align="center"}
+</center>
+
+
+::: notes
+
+- Zugänglichkeit der Evidenz - also haben LuL Zugang zu den wissenschaftlichen Erkenntnissen
+
+:::
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Wissen.png){.lightbox width="70%" fig-align="center"}
+</center>
+
+
+::: notes
+- Forschungsmethodisches Wissen
+
+:::
+
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Aufbereitung.png){.lightbox width="70%" fig-align="center"}
+</center>
+
+::: notes
+- Aufbereitung der Evidenz. Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistischer Fachtermini schwer verständlich
+  + beeinflusst Schlussfolgerungs- und Anwendungsphase - ADD Beispiel
+    
+:::
+
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Nützlichkeit.png){.lightbox width="70%" fig-align="center"}
+</center>
+
+::: notes
+
+- Nützlichkeitseinschätzung 
+  + ob Prozess überhaupt gestartet wird
+  + Schlussfolgerung
+  + Anwendung
+
+- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch inn 
+::: 
+
+<!--
+
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
 
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken (vgl. z.B. systematische Reviews @schaik2018, @dagenais2012, @hemsley-brown2003, @schmidt2024)
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_Einflussfaktoren_gesamt.png){.lightbox width="55%" fig-align="center"}
+![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Reflexion.png){.lightbox width="80%" fig-align="center"}
 </center>
 
-
-
-<!-- @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023 -->
-
-
 ::: notes
--   wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
--   Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
--   was nicht nur auf ihre Kompetenzen und Überzeugungen - also die individuelle Ebene der Lehrpersonen zurückzuführen ist, sondern empirisch zeigen sich vielzählige Barrieren, die unterschiedlichen Ebenen zugeordnet werden können
-    -   neben der Ebene der individuellen Lehrperson
-    -   Ebene der Forschungswissens. Ein Beispiel: Forschungsergebnisse sind durch die Verwendung zahlreicher Fachbegriffe z.B. statistischer Fachtermini schwer verständlich
-    -   Schule z.B. Rahmenbedingungen an der Schule, um sich mit Wissenschaft auseinanderzusetzen
-    -   Kommunikation: Kooperation zwischen Wissenschaftler:innen und Praktiker:innen im Forschungsprozess
 
-:::
+- Reflexionsfähigkeit 
 
+
+- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch inn 
+
+::: 
+
+---> 
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
 
 
-> Einflussfaktoren, , die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden (@schmidt2024)
+> Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden (@schmidt2024)
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_test.png){.lightbox width="55%" fig-align="center"}
+![](img/Angebot-Nutzungsmodell.png){.lightbox width="50%" fig-align="center"}
 </center>
-
-<!--
-
-## Katalysatoren und Barrieren {{< iconify fluent-mdl2:processing >}} {.smaller}
-
-<center>
-![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
-</center>
-
-|             |Katalysator | Barriere |
-|-------------|-------------|-------------|
-||||
-
-
-
-## Katalysatoren und Barrieren {{< iconify fluent-mdl2:processing >}} {.smaller}
-
-<center>
-![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
-</center>
-
-
-|             |Katalysator | Barriere |
-|-------------|-------------|-------------|
-| __Nutzende__ | z.B. forschungsmethodisches Wissen | z.B. geringe Nützlichkeitsüberzeugungen| 
-
-
-## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}} {.smaller}
-
-<center>
-![Schmidt (2024)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="30%" fig-align="center"}
-</center>
-
-|             |Katalysator | Barriere |
-|-------------|-------------|-------------|
-| __Nutzende__ | z.B. forschungsmethodisches Wissen | z.B. geringe Nützlichkeitsüberzeugungen|
-| __Angebot__ | z.B. verständliche Beschreibung der Untersuchungsergebnissse | z.B. Beschreibungen, die  »Practical Significance Bias« (Michal & Shah, 2024) auslösen|
-
-
-
-## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
-
-<br>
-
-**Verschiedene Ansätze:**
-
-::: incremental
--   Professionalisierung der (angehenden) Lehrpersonen [z.B. @böttcher-oschmann2021; @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @reuter2023]
-
--   Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]
-:::
 
 ::: notes
--   in der Literatur finden sich mittlerweile unterschiedliche Ansätze um Barrieren in Gelingensbedingungen umzuwandeln
--   Diese können wieder in die vier Ebenen - Lehrperson, Forschungswissen, Schule, Kommunikation-, die ich gerade genannt habe, unterteilt werden oder noch übergreifender in zwei Ansätze gegliedert werden
-    -   Professionalisierung der Lehrpersonen ansetzen, indem gezielt Kompetenzen, die Realisierung EIP notwendig sind, gefördert werden
-    -   Gestaltung der WK
+- der Angebots oder Nutzenden-Seite zuordnen
+
+
+- 
+
+::: 
+
+## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
+
+::: {style="font-size: 0.75em"}
+<table style = "width:100%;">
+  <tr>
+    <th style = "width:20%;"></th>
+    <th style = "width:40%;">Katalysatoren</th>
+    <th style = "width:40%;">Barrieren</th>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Nutzende__</td>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Angebot__</td>
+    <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
+  </tr>
+</table>
+
 :::
-
---> 
-
 
 ## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
 
@@ -311,7 +323,52 @@ border: none !important;
     <td style = "width:20%;">__Nutzende__</td>
     <td style = "width:40%;">__Beitrag 2:__ <br>
     *»Förderung evidenz-<br>orientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback«* <br> von Ingo Kollar und Kolleg:innen</td>
-    <td style = "width:40%;">__Beitrag 3:__ <br> *»Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissen-schaftlicher Evidenz, oder doch?«* <br> von Michael Rochnia und Kolleg:innen</td>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Angebot__</td>
+    <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
+  </tr>
+</table>
+
+:::
+
+## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
+
+::: {style="font-size: 0.75em"}
+<table style = "width:100%;">
+  <tr>
+    <th style = "width:20%;"></th>
+    <th style = "width:40%;">Katalysatoren</th>
+    <th style = "width:40%;">Barrieren</th>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Nutzende__</td>
+    <td style = "width:40%;">__Beitrag 2:__ <br>
+    *»Förderung evidenz-<br>orientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback«* <br> von Ingo Kollar und Kolleg:innen</td>
+    <td style = "width:40%;">__Beitrag 3:__ <br> *»Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissenschaftlicher Evidenz, oder doch?«* <br> von Michael Rochnia und Kolleg:innen</td>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Angebot__</td>
+    <td colspan="2" style = "width:80%;">__Beitrag 1:__ <br>*»Effektstärken verständlich an Lehrpersonen kommunizieren«* <br> von Florian Kühlwein und Kolleg:innen</td>
+  </tr>
+</table>
+
+:::
+
+## Beiträge im Symposium {{< iconify ri:presentation-fill >}}
+
+::: {style="font-size: 0.75em"}
+<table style = "width:100%;">
+  <tr>
+    <th style = "width:20%;"></th>
+    <th style = "width:40%;">Katalysatoren</th>
+    <th style = "width:40%;">Barrieren</th>
+  </tr>
+  <tr>
+    <td style = "width:20%;">__Nutzende__</td>
+    <td style = "width:40%;">__Beitrag 2:__ <br>
+    *»Förderung evidenz-<br>orientierten Denkens von Lehramtsstudierenden mit hypridem KI- und peer-basiertem Feedback«* <br> von Ingo Kollar und Kolleg:innen</td>
+    <td style = "width:40%;">__Beitrag 3:__ <br> *»Die Abwertung episodischer Evidenz bedeutet nicht die Aufwertung wissenschaftlicher Evidenz, oder doch?«* <br> von Michael Rochnia und Kolleg:innen</td>
   </tr>
   <tr>
     <td style = "width:20%;">__Angebot__</td>
