@@ -52,7 +52,7 @@ border: none !important;
 </style>
 
 ::: footer
-{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> XXX
+{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
 :::
 
 
