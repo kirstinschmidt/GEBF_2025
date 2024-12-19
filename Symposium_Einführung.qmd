@@ -141,7 +141,7 @@ border: none !important;
 ## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="50%" fig-align="center"}
 </center>
 
 ::: fragment
@@ -167,7 +167,7 @@ border: none !important;
 
 ::: fragment
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zeit.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zeit.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 ::: 
@@ -185,7 +185,7 @@ border: none !important;
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zugänglichkeit.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zugänglichkeit.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 
@@ -201,7 +201,7 @@ border: none !important;
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Wissen.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Wissen.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 
@@ -217,7 +217,7 @@ border: none !important;
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Aufbereitung.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Aufbereitung.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 ::: notes
@@ -233,7 +233,7 @@ border: none !important;
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Nützlichkeit.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Nützlichkeit.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 ::: notes
@@ -249,10 +249,10 @@ border: none !important;
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
 
-> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken (vgl. z.B. systematische Reviews @schaik2018, @dagenais2012, @hemsley-brown2003, @schmidt2024)
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert nach Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Reflexion.png){.lightbox width="70%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Reflexion.png){.lightbox width="60%" fig-align="center"}
 </center>
 
 ::: notes
