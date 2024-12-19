@@ -15,7 +15,7 @@ bibliography: references.bib
 csl: apa.csl
 title-slide-attributes: 
   data-notes: 
-  - freue mich heute spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
+  - freue mich auf spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
 ## Überblick
@@ -91,9 +91,9 @@ border: none !important;
 - Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
 - je nach Anliegen, unterschiedliche Informationsquellen geeignet 
 - Bei situativen Entscheidungen eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
-  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich sonst selten meldt)
+  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich sonst selten meldet)
 - wenn eine Lehrperson die Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
-- wissenschaftliches Wissen hingegen können Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
+- wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
   + z.B. Probetest als Vorbereitung auf Klassenarbeit 
 
 - fokussieren sich L. auf wissenschaftliche Evidenz -> EISP
@@ -129,12 +129,13 @@ border: none !important;
 ::: notes
 
 - die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
-  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
-- Ihr wird daher Potenzial zugeschrieben
-  + Professionalisierung von Lehrpersonen stärken
+  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst
+- Evidenz wird daher Potenzial zugeschrieben
+  + Professionalisierung von Lehrpersonen zu stärken
   + Unterrichts- und Schulqualität
-  + letztlich Schüler:innenleistung steigern kann
+  + letztlich Schüler:innenleistung zu steigern
 - was auch mit ersten empirischen Studien belegt werden kann
+
 :::
 
 ## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
@@ -155,7 +156,7 @@ border: none !important;
 
 - wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
 - Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
-- daher Forschung nötig, die Faktoren identifiziert, die LuL das Realisieren EISP erschweren bzw. erleichtern
+- daher Forschung nötig, die Faktoren identifiziert, die L. das Realisieren EISP erschweren bzw. erleichtern
 
 ::: 
 
@@ -190,7 +191,7 @@ border: none !important;
 
 ::: notes
 
-- Zugänglichkeit der Evidenz - also haben LuL Zugang zu den wissenschaftlichen Erkenntnissen
+- Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen
 
 :::
 
@@ -220,7 +221,7 @@ border: none !important;
 </center>
 
 ::: notes
-- Aufbereitung der Evidenz. Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistischer Fachtermini schwer verständlich
+- Aufbereitung der Evidenz: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
   + beeinflusst Schlussfolgerungs- und Anwendungsphase - ADD Beispiel
     
 :::
@@ -258,7 +259,6 @@ border: none !important;
 
 - Reflexionsfähigkeit 
 
-
 - zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch ...
 
 ::: 
@@ -282,7 +282,7 @@ border: none !important;
 - beide Seiten können sich gegenseitig beeinflussen
   + ADD Beispiel
 - EISP als Interaktion dieser beiden Seiten zu verstehen
-- Im Symposium sowohl die Nutzenden als auch Angebotsseite und Fokus sowohl auf Katalysatoren als auch Barrieren
+- Im Symposium sowohl die Nutzenden als auch Angebotsseite sowie Fokus auf Katalysatoren und Barrieren
 
 ::: 
 
@@ -400,7 +400,7 @@ border: none !important;
 
 ::: notes
 
-- alle Beiträge 20 Minuten Zeit
+- alle Beiträge 20 Minuten Zeit - 15 Minuten Vortrag und 5 Minuten Verständnisrückfragen
 - ich freue mich sehr darauf, dass wir wie eingangs erwähnt Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge kritisch diskutiert
 
 :::
