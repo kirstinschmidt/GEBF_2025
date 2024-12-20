@@ -8,7 +8,7 @@ picture: img/KA.jpeg
 date: today
 lang: de
 date-format: "[Mittwoch, den 29. Januar 2025]"
-embed-resources: true
+embed-resources: false
 format: rlille-revealjs
 lightbox: true
 bibliography: references.bib
@@ -89,9 +89,9 @@ border: none !important;
 ::: notes
 
 - Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
-- je nach Anliegen, unterschiedliche Informationsquellen geeignet 
+- je nach Anliegen unterschiedliche Informationsquellen geeignet 
 - Bei situativen Entscheidungen eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
-  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich sonst selten meldet)
+  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
 - wenn eine Lehrperson die Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
 - wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
   + z.B. Probetest als Vorbereitung auf Klassenarbeit 
@@ -128,7 +128,7 @@ border: none !important;
 
 ::: notes
 
-- die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
+- die Forderung einer evidenzinformierten Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
   + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst
 - Evidenz wird daher Potenzial zugeschrieben
   + Professionalisierung von Lehrpersonen zu stärken
@@ -191,7 +191,7 @@ border: none !important;
 
 ::: notes
 
-- Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen
+- Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen: Zugriffsphase
 
 :::
 
@@ -206,7 +206,7 @@ border: none !important;
 
 
 ::: notes
-- Forschungsmethodisches Wissen
+- Forschungsmethodisches Wissen: v.a. Schlussfolgerungsphase
 
 :::
 
@@ -222,7 +222,7 @@ border: none !important;
 
 ::: notes
 - Aufbereitung der Evidenz: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
-  + beeinflusst Schlussfolgerungs- und Anwendungsphase 
+  + beeinflusst Schlussfolgerungs- und Anwendungsphase (z.B. konkrete Implikationen für Praxis gegeben) 
     
 :::
 
@@ -240,8 +240,7 @@ border: none !important;
 
 - Nützlichkeitseinschätzung 
   + ob Prozess überhaupt gestartet wird
-  + Schlussfolgerung
-  + Anwendung
+  + beeinflusst aber auch Schlussfolgerungs- und Anwendungsphase
 
 ::: 
 
