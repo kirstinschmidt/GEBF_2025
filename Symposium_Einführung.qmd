@@ -18,6 +18,7 @@ title-slide-attributes:
   - freue mich auf spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
+<!--
 ## Überblick
 
 ```{r }
@@ -36,9 +37,10 @@ title-slide-attributes:
 | {{< iconify ri:presentation-fill >}} | Beiträge im Symposium |
 
 : {#tbl-agenda tbl-colwidths="\[15,85\]"}
-
+-->
 <!-- style the agenda table -->
 
+<!-- 
 <style>
 #tbl-agenda table th {
 font-weight: normal !important;
@@ -51,6 +53,7 @@ border: none !important;
 }
 </style>
 
+
 ::: footer
 {{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
 :::
@@ -59,6 +62,7 @@ border: none !important;
 ::: notes
 
 ::: 
+--> 
 
 
 ## Informationsquellen {{< iconify entypo:documents >}} 
@@ -88,15 +92,15 @@ border: none !important;
   
 ::: notes
 
-- Lehrpersonen können auf verschiedene Informationsquellen zurückgreifen
-- je nach Anliegen unterschiedliche Informationsquellen geeignet 
-- Bei situativen Entscheidungen eigent sich episodische Evidenz wie z.B. eigene Erfahrungen
-  + welche/n Schüler:in rufe ich als nächstes auf (S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
-- wenn eine Lehrperson die Leistungsentwicklung ihrer SuS monitoren möchte, dann v.a. Daten hilfreich wie solche Lernverlaufsgrafiken 
+- professionelles Handeln von Lehrpersonen zeichnet sich u.a. dadurch aus, dass sie bei Entscheidungen auf geeignete  Informationsquellen zurückgreifen
+
+- Für situative Entscheidungen kann episodische Evidenz  wie z.B. eigene Erfahrungen nützlich sein
+  + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
+- um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, kann Lehrperson die Leistungsentwicklung ihrer SuS monitoren und dabei auf Daten zurückgreifen wie solche, die in Lernverlaufsgrafiken visualisiert sind
 - wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
   + z.B. Probetest als Vorbereitung auf Klassenarbeit 
 
-- fokussieren sich L. auf wissenschaftliche Evidenz -> EISP
+- Rückgriff auf wissenschaftliche Evidenz wird als EISP
 :::
   
 
@@ -104,6 +108,8 @@ border: none !important;
 
 ::: notes
 - Fokus des heutigene Symposiums
+
+- formale Begründung in KMK-Kompetenzen festgelegt, dass Lehrpersonen bildungswissenschaftliche Evidenz in ihrem professionellen Handeln berücksichtigen sollen
 
 :::
 
@@ -128,8 +134,8 @@ border: none !important;
 
 ::: notes
 
-- die Forderung einer evidenzinformierten Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
-  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst
+- diese Festlegung kann beispielsweise kognitionspsychologisch begründet werden
+  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen z.B. wie eingangs beispielhaft benannt die Vorbereitung auf eine Klassenarbeit benannt
 - Evidenz wird daher Potenzial zugeschrieben
   + Professionalisierung von Lehrpersonen zu stärken
   + Unterrichts- und Schulqualität
@@ -152,9 +158,15 @@ border: none !important;
 
 ::: notes
 
-- L. müssen verschiedene Schritte durchlaufen, um evidenzinformiert zu handeln: verschiedenen Phasen erläutern
+- um evidenzinformiert zu handeln, müssen L. allerdrings einen komplexen Prozess durchlaufen
+  + um nochmals auf das Eingangsbeispiel zurückzugreifen
+  + Lehrpersonen möchten die Vorbereitung auf Klassenarbeit verbessern - Anlass
+  + Zugriffsphase passende wissenschaftliche Quellen recherchieren
+  + Evidenz sichten d.h. lesen und verstehen um in Schlussfolgerung zu Wissen zu kommen
+  + Wissen in der Anwendungsphase für die Praxis fruchtbar machen d.h. nutzen
+  + im Idealfall schließt sich noch eine Evaluation des Prozesses an
 
-- wie Sie sicherlich auch wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
+- wie Sie sicherlich wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
 - Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
 - daher Forschung nötig, die Faktoren identifiziert, die L. das Realisieren EISP erschweren bzw. erleichtern
 
@@ -175,7 +187,9 @@ border: none !important;
 
 ::: notes
 - Systematische Reviews zeigen, dass Einflussfaktoren sehr vielfältig sind und in den verschiedenen Phasen zum Tragen kommen 
-  + häufig genannte Barriere: Zeit 
+- je nach Ausprägung wirken sie als Katalysatoren oder Barrieren
+  + häufig gehen Lehrpersonen auf die zeitliche Ressource ein; limitiert und daher Barriere
+  + beeinflusst den gesamten Prozess
 
 :::
 
@@ -192,6 +206,8 @@ border: none !important;
 ::: notes
 
 - Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen: Zugriffsphase
+  - je nach Ausprägung Katalysator oder Barriere
+  - stellen Sie sich vor wissenschaftliche Quellen verstecken sich hinter Paywalls, dann erwschwert dies den Zugriff
 
 :::
 
@@ -206,7 +222,7 @@ border: none !important;
 
 
 ::: notes
-- Forschungsmethodisches Wissen: v.a. Schlussfolgerungsphase
+- je nachdem wie gut das forschungsmethodisches Wissen ausgeprägt ist, kann dies vor allem die Schlussfolgerungsphase erleichtern oder erschweren
 
 :::
 
@@ -256,9 +272,10 @@ border: none !important;
 
 ::: notes
 
-- Reflexionsfähigkeit 
+- Reflexionsfähigkeit - evidenzinformierte Problemanalyse im Sinne der Unterrichtsreflexion
 
-- zoomt man aus diesem Prozess heraus und systematisiert diese verschiedenen Einflussfaktoren auf einer Metaebene, kann man die Katalysatoren und Barrieren auch ...
+- zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
+- die Katalysatoren und Barrieren können auch ...
 
 ::: 
 
@@ -274,14 +291,18 @@ border: none !important;
 </center>
 
 ::: notes
-... der Angebots oder Nutzenden-Seite zuordnen
+... der Angebots oder Nutzenden-Seite zugeordnet werden
 
-- Nutzendenseite bspw. Nützlichkeitseinschätzungen wissenschaftlicher Evidenz oder forschungsmethodisches Wissen
-- Angebot hingegen, ist Evidenz zugänglich und wie ist sie aufbereitet
+- Nutzendenseite bezieht sich auf die Charaktaristika der (angehenden) Lehrpersonen
+  - bspw. für wie nützlich sie wissenschaftlicher Evidenz einschätzen
+  - oder ihr forschungsmethodisches Wissen
+- Angebot bezieht sich auf die wissenschaftliche Evidenz
+  - Aufbereitung durch Forschende oder sogenannte Knowledge Brokers wie Clearing Houses
+  - z.B. ihre Zugänglichkeit und ihre Aufbereitung
 - beide Seiten können sich gegenseitig beeinflussen
   + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit Scaffolding erhöht werden
-- EISP als Interaktion dieser beiden Seiten zu verstehen
-- Im Symposium sowohl die Nutzenden als auch Angebotsseite sowie Fokus auf Katalysatoren und Barrieren
+- Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
+- Im Symposium sowohl die Nutzenden als auch Angebotsseite beleuchten und dabei sowohl Katalysatoren und Barrieren in den Blick nehmen
 
 ::: 
 
@@ -336,7 +357,8 @@ border: none !important;
 
 ::: notes
 
-- im 2. Beitrag springen wir zur Nutzendenseite 
+- im 2. Beitrag springen wir zur Nutzendenseite und der Frage welche Feedbackform Lehramtsstudierende im evidenzorientierten Denken unterstützen kann 
+- (Kommentar: hier Fokus auf Reflexionsfähigkeit)
 
 :::
 
@@ -366,7 +388,7 @@ border: none !important;
 
 ::: notes
 
-- dritte Beitrag beleuchtet ebenfalls Nutzendenseite, nimmt aber eine Barriere in den Blick: die gering ausgeprägten Nützlichkeitseinschätzungen
+- dritte Beitrag beleuchtet ebenfalls Nutzendenseite, nimmt aber eine Barriere in den Blick: die gering ausgeprägten Nützlichkeitseinschätzungen und geht der Frage nach, ob eine Abwertung episodischer Evidenz mit einer Aufwertung wissenschaftlicher Evidenz gleichzusetzen ist
 
 :::
 
@@ -400,6 +422,8 @@ border: none !important;
 ::: notes
 
 - alle Beiträge 20 Minuten Zeit - 15 Minuten Vortrag und 5 Minuten Verständnisrückfragen
+  + bitte nur Verständnisrückfragen; Diskussion ganz am Ende des Symposiums
+- denn wir wollen noch Zeit für unseren Diskutanten
 - ich freue mich sehr darauf, dass wir - wie eingangs erwähnt - Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge kritisch diskutiert
 
 :::
