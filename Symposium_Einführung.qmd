@@ -429,9 +429,8 @@ border: none !important;
 - alle Beiträge 20 Minuten Zeit - 15 Minuten Vortrag und 5 Minuten Verständnisrückfragen
   + bitte nur Verständnisrückfragen; Diskussion ganz am Ende des Symposiums
 - denn wir wollen noch Zeit für unseren Diskutanten
-- ich freue mich sehr darauf, dass wir - wie eingangs erwähnt - Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge kritisch diskutiert
+- ich freue mich sehr darauf, dass wir - wie eingangs erwähnt - Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge einordnet und diskutiert
 
-einordnen und diskutieren
 :::
 
 
