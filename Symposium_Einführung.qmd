@@ -54,9 +54,6 @@ border: none !important;
 </style>
 
 
-::: footer
-{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
-:::
 
 
 ::: notes
@@ -94,7 +91,7 @@ border: none !important;
 
 - professionelles Handeln von Lehrpersonen zeichnet sich u.a. dadurch aus, dass sie bei Entscheidungen auf geeignete  Informationsquellen zurückgreifen
 
-- Für situative Entscheidungen kann episodische Evidenz  wie z.B. eigene Erfahrungen nützlich sein
+- Für situative Entscheidungen kann episodische Evidenz wie z.B. eigene Erfahrungen nützlich sein
   + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
 - um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, kann Lehrperson die Leistungsentwicklung ihrer SuS monitoren und dabei auf Daten zurückgreifen wie solche, die in Lernverlaufsgrafiken visualisiert sind
 - wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
@@ -105,6 +102,12 @@ border: none !important;
   
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+
+
+::: footer
+{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
+:::
+
 
 ::: notes
 - Fokus des heutigene Symposiums
@@ -188,7 +191,8 @@ border: none !important;
 ::: notes
 - Systematische Reviews zeigen, dass Einflussfaktoren sehr vielfältig sind und in den verschiedenen Phasen zum Tragen kommen 
 - je nach Ausprägung wirken sie als Katalysatoren oder Barrieren
-  + häufig gehen Lehrpersonen auf die zeitliche Ressource ein; limitiert und daher Barriere
+- ein paar Beispiele geben
+  + häufige Barriere, die Lehrpersonen benenen ist die limitierte Zeit
   + beeinflusst den gesamten Prozess
 
 :::
@@ -206,8 +210,7 @@ border: none !important;
 ::: notes
 
 - Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen: Zugriffsphase
-  - je nach Ausprägung Katalysator oder Barriere
-  - stellen Sie sich vor wissenschaftliche Quellen verstecken sich hinter Paywalls, dann erwschwert dies den Zugriff
+  - wissenschaftliche Quellen verstecken sich oftmals hinter Paywalls, dann erschwert dies den Zugriff
 
 :::
 
@@ -222,7 +225,7 @@ border: none !important;
 
 
 ::: notes
-- je nachdem wie gut das forschungsmethodisches Wissen ausgeprägt ist, kann dies vor allem die Schlussfolgerungsphase erleichtern oder erschweren
+- forschungsmethodisches Wissen von Lehrperson oftmals eingeschränkt, was vor allem die Schlussfolgerungsphase erschwert
 
 :::
 
@@ -237,8 +240,8 @@ border: none !important;
 </center>
 
 ::: notes
-- Aufbereitung der Evidenz: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
-  + beeinflusst Schlussfolgerungs- und Anwendungsphase (z.B. konkrete Implikationen für Praxis gegeben) 
+- Zusätzlich Aufbereitung der Evidenz: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
+  + erschwert Schlussfolgerungs- und Anwendungsphase (z.B. konkrete Implikationen für Praxis gegeben) 
     
 :::
 
@@ -254,7 +257,7 @@ border: none !important;
 
 ::: notes
 
-- Nützlichkeitseinschätzung 
+- motivationale Orientierung - wissenschaftliche Evidenz wird oftmals als wenig nützlich für die Praxis eingeschätzt
   + ob Prozess überhaupt gestartet wird
   + beeinflusst aber auch Schlussfolgerungs- und Anwendungsphase
 
@@ -275,6 +278,7 @@ border: none !important;
 - Reflexionsfähigkeit - evidenzinformierte Problemanalyse im Sinne der Unterrichtsreflexion
 
 - zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
+
 - die Katalysatoren und Barrieren können auch ...
 
 ::: 
@@ -294,15 +298,16 @@ border: none !important;
 ... der Angebots oder Nutzenden-Seite zugeordnet werden
 
 - Nutzendenseite bezieht sich auf die Charaktaristika der (angehenden) Lehrpersonen
-  - bspw. für wie nützlich sie wissenschaftlicher Evidenz einschätzen
+  - bspw. Reflexionsfähigkeit, 
+  - für wie nützlich sie wissenschaftlicher Evidenz einschätzen
   - oder ihr forschungsmethodisches Wissen
 - Angebot bezieht sich auf die wissenschaftliche Evidenz
   - Aufbereitung durch Forschende oder sogenannte Knowledge Brokers wie Clearing Houses
   - z.B. ihre Zugänglichkeit und ihre Aufbereitung
-- beide Seiten können sich gegenseitig beeinflussen
+- Zudem können sich beide Seiten gegenseitig beeinflussen
   + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit Scaffolding erhöht werden
 - Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
-- Im Symposium sowohl die Nutzenden als auch Angebotsseite beleuchten und dabei sowohl Katalysatoren und Barrieren in den Blick nehmen
+- Im Symposium sowohl die Nutzenden als auch Angebotsseite beleuchten und dabei sowohl Katalysatoren und Barrieren in den Blick nehmen, um der Komplexität EISP näher zu kommen und L. evidenzinformiertes Handeln zu erleichtern
 
 ::: 
 
@@ -328,8 +333,8 @@ border: none !important;
 
 ::: notes
 
-- erster Beitrag: Kollege Florian Kühlwein explorativen Zugang 
-  + Aufbereitung von statistischen Ergebnissen - Effektstärken - Katalysator oder Barriere?
+- erster Beitrag: Kollege Florian Kühlwein 
+  + Angebotsseite: Aufbereitung von Effektstärken - Katalysator oder Barriere?
 
 ::: 
 
@@ -426,6 +431,7 @@ border: none !important;
 - denn wir wollen noch Zeit für unseren Diskutanten
 - ich freue mich sehr darauf, dass wir - wie eingangs erwähnt - Ulrich Trautwein gewinnen konnten, der abschließend die Beiträge kritisch diskutiert
 
+einordnen und diskutieren
 :::
 
 
