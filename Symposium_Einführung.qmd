@@ -23,7 +23,7 @@ title-slide-attributes:
 
 
 ::: footer
-Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
+Einführungsfolien cc-by {{< iconify mdi:creative-commons >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
 :::
 
 
