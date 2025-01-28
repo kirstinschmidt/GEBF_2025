@@ -18,6 +18,15 @@ title-slide-attributes:
   - freue mich auf spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
+# {{< iconify simple-icons:osf >}} Alle Präsentationen finden Sie unter __[https://osf.io/dxkuw/](https://osf.io/dxkuw/){preview-link="true"}__ 
+
+
+
+::: footer
+Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
+:::
+
+
 <!--
 ## Überblick
 
@@ -102,11 +111,6 @@ border: none !important;
   
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
-
-
-::: footer
-{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
-:::
 
 
 ::: notes
