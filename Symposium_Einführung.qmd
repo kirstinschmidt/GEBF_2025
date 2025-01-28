@@ -3,7 +3,7 @@ title: "Förderung evidenzinformierter Handlungen von Lehrkräften"
 subtitle: "Symposium | GEBF 2025"
 author: Samuel Merk & Kirstin Schmidt (Chairs) | 
 institute: Pädagogische Hochschule Karlsruhe
-logo: img/ph-logo.svg
+logo: img/ph-logo.png
 picture: img/KA.jpeg
 date: today
 lang: de
@@ -18,8 +18,16 @@ title-slide-attributes:
   - freue mich auf spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
-# {{< iconify simple-icons:osf >}} Alle Präsentationen finden Sie unter __[https://osf.io/dxkuw/](https://osf.io/dxkuw/){preview-link="true"}__ 
+## Herzlich willkommen zum Symposium <br>"Förderung evidenzinformierter Handlungen von Lehrkräften"!
 
+<br> 
+<br>
+
+::: {style="font-size: 1.4em"}
+<center>
+#### {{< iconify simple-icons:osf >}} Alle Präsentationen finden Sie unter __[https://osf.io/dxkuw/](https://osf.io/dxkuw/){preview-link="true"}__ 
+</center>
+:::
 
 
 ::: footer
@@ -98,7 +106,7 @@ border: none !important;
   
 ::: notes
 
-- professionelles Handeln von Lehrpersonen zeichnet sich u.a. dadurch aus, dass sie bei Entscheidungen auf geeignete  Informationsquellen zurückgreifen
+- professionelles Handeln von Lehrpersonen zeichnet sich u.a. dadurch aus, dass sie bei Entscheidungen auf geeignete Informationsquellen zurückgreifen
 
 - Für situative Entscheidungen kann episodische Evidenz wie z.B. eigene Erfahrungen nützlich sein
   + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
@@ -116,7 +124,7 @@ border: none !important;
 ::: notes
 - Fokus des heutigene Symposiums
 
-- formale Begründung in KMK-Kompetenzen festgelegt, dass Lehrpersonen bildungswissenschaftliche Evidenz in ihrem professionellen Handeln berücksichtigen sollen
+- in KMK-Kompetenzen festgelegt, dass Lehrpersonen bildungswissenschaftliche Evidenz in ihrem professionellen Handeln berücksichtigen sollen
 
 :::
 
@@ -142,12 +150,12 @@ border: none !important;
 ::: notes
 
 - diese Festlegung kann beispielsweise kognitionspsychologisch begründet werden
-  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen z.B. wie eingangs beispielhaft benannt die Vorbereitung auf eine Klassenarbeit benannt
+  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen 
 - Evidenz wird daher Potenzial zugeschrieben
   + Professionalisierung von Lehrpersonen zu stärken
   + Unterrichts- und Schulqualität
   + letztlich Schüler:innenleistung zu steigern
-- was auch mit ersten empirischen Studien belegt werden kann
+(- was auch mit ersten empirischen Studien belegt werden kann)
 
 :::
 
@@ -167,7 +175,7 @@ border: none !important;
 
 - um evidenzinformiert zu handeln, müssen L. allerdrings einen komplexen Prozess durchlaufen
   + um nochmals auf das Eingangsbeispiel zurückzugreifen
-  + Lehrpersonen möchten die Vorbereitung auf Klassenarbeit verbessern - Anlass
+  + Anlass formulieren z.B. ein Problem, eine Weiterentwicklung
   + Zugriffsphase passende wissenschaftliche Quellen recherchieren
   + Evidenz sichten d.h. lesen und verstehen um in Schlussfolgerung zu Wissen zu kommen
   + Wissen in der Anwendungsphase für die Praxis fruchtbar machen d.h. nutzen
@@ -175,7 +183,7 @@ border: none !important;
 
 - wie Sie sicherlich wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
 - Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
-- daher Forschung nötig, die Faktoren identifiziert, die L. das Realisieren EISP erschweren bzw. erleichtern
+- stellt sich Frage nach Faktoren, die diesen Prozess erschweren oder erleichtern
 
 ::: 
 
@@ -195,9 +203,8 @@ border: none !important;
 ::: notes
 - Systematische Reviews zeigen, dass Einflussfaktoren sehr vielfältig sind und in den verschiedenen Phasen zum Tragen kommen 
 - je nach Ausprägung wirken sie als Katalysatoren oder Barrieren
-- ein paar Beispiele geben
-  + häufige Barriere, die Lehrpersonen benenen ist die limitierte Zeit
-  + beeinflusst den gesamten Prozess
+- ich möchte ein paar Beispiele geben
+  + häufige Barriere, die Lehrpersonen benenen ist die limitierte Zeit, die alle Phasen des Prozesses betrifft
 
 :::
 
@@ -213,10 +220,11 @@ border: none !important;
 
 ::: notes
 
-- Zugänglichkeit der Evidenz - also haben L. Zugang zu den wissenschaftlichen Erkenntnissen: Zugriffsphase
-  - wissenschaftliche Quellen verstecken sich oftmals hinter Paywalls, dann erschwert dies den Zugriff
+- Zugänglichkeit der Evidenz: Knowledge Brokers wie Clearinghouses, die versuchen wissenschaftliche Evidenz für Praktiker:innen frei zugänglich zu machen
 
 :::
+
+<!--
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -229,10 +237,11 @@ border: none !important;
 
 
 ::: notes
-- forschungsmethodisches Wissen von Lehrperson oftmals eingeschränkt, was vor allem die Schlussfolgerungsphase erschwert
+- forschungsmethodisches Wissen von Lehrperson kann die Schlussfolgerungsphase erleichtern
 
 :::
 
+-->
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -244,7 +253,7 @@ border: none !important;
 </center>
 
 ::: notes
-- Zusätzlich Aufbereitung der Evidenz: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
+- Aufbereitung der Evidenz oftmals Barriere: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
   + erschwert Schlussfolgerungs- und Anwendungsphase (z.B. konkrete Implikationen für Praxis gegeben) 
     
 :::
@@ -261,13 +270,19 @@ border: none !important;
 
 ::: notes
 
-- motivationale Orientierung - wissenschaftliche Evidenz wird oftmals als wenig nützlich für die Praxis eingeschätzt
+- Außerdem wird wissenschaftliche Evidenz von Lehrpersonen oftmals als wenig nützlich für die Praxis eingeschätzt
   + ob Prozess überhaupt gestartet wird
   + beeinflusst aber auch Schlussfolgerungs- und Anwendungsphase
 
+
+- sehr viel unterschiedliche Forschungsansätze in diesem Bereich 
+- zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
+
+- die Katalysatoren und Barrieren können auch ...
+
 ::: 
 
-
+<!--
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
 
@@ -279,14 +294,11 @@ border: none !important;
 
 ::: notes
 
-- Reflexionsfähigkeit - evidenzinformierte Problemanalyse im Sinne der Unterrichtsreflexion
+- eine ausgeprägte Reflexionsfähigkeit - evidenzinformierte Problemanalyse im Sinne der Unterrichtsreflexion - Anwendungsphase erleichtern
 
-- zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
-
-- die Katalysatoren und Barrieren können auch ...
 
 ::: 
-
+-->
 
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
@@ -302,14 +314,13 @@ border: none !important;
 ... der Angebots oder Nutzenden-Seite zugeordnet werden
 
 - Nutzendenseite bezieht sich auf die Charaktaristika der (angehenden) Lehrpersonen
-  - bspw. Reflexionsfähigkeit, 
-  - für wie nützlich sie wissenschaftlicher Evidenz einschätzen
+  - bspw. für wie nützlich sie wissenschaftlicher Evidenz einschätzen
   - oder ihr forschungsmethodisches Wissen
 - Angebot bezieht sich auf die wissenschaftliche Evidenz
   - Aufbereitung durch Forschende oder sogenannte Knowledge Brokers wie Clearing Houses
   - z.B. ihre Zugänglichkeit und ihre Aufbereitung
 - Zudem können sich beide Seiten gegenseitig beeinflussen
-  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit Scaffolding erhöht werden
+  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit z.B. Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenkenerhöht werden
 - Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
 - Im Symposium sowohl die Nutzenden als auch Angebotsseite beleuchten und dabei sowohl Katalysatoren und Barrieren in den Blick nehmen, um der Komplexität EISP näher zu kommen und L. evidenzinformiertes Handeln zu erleichtern
 
@@ -366,7 +377,7 @@ border: none !important;
 
 ::: notes
 
-- im 2. Beitrag springen wir zur Nutzendenseite und der Frage welche Feedbackform Lehramtsstudierende im evidenzorientierten Denken unterstützen kann 
+- im 2. Beitrag springen wir zur Nutzendenseite und Ingo Kollar geht der Frage nach welche Feedbackform Lehramtsstudierende im evidenzorientierten Denken unterstützen kann 
 - (Kommentar: hier Fokus auf Reflexionsfähigkeit)
 
 :::
@@ -397,7 +408,7 @@ border: none !important;
 
 ::: notes
 
-- dritte Beitrag beleuchtet ebenfalls Nutzendenseite, nimmt aber eine Barriere in den Blick: die gering ausgeprägten Nützlichkeitseinschätzungen und geht der Frage nach, ob eine Abwertung episodischer Evidenz mit einer Aufwertung wissenschaftlicher Evidenz gleichzusetzen ist
+- dritte Beitrag beleuchtet Michael Rochnia ebenfalls Nutzendenseite, nimmt aber eine Barriere in den Blick: die gering ausgeprägten Nützlichkeitseinschätzungen und geht der Frage nach, ob eine Abwertung episodischer Evidenz mit einer Aufwertung wissenschaftlicher Evidenz gleichzusetzen ist
 
 :::
 
