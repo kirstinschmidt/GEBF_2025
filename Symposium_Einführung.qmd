@@ -113,7 +113,7 @@ border: none !important;
 
 - Für situative Entscheidungen kann episodische Evidenz wie z.B. eigene Erfahrungen nützlich sein
   + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
-- um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, kann Lehrperson die Leistungsentwicklung ihrer SuS monitoren und dabei auf Daten zurückgreifen wie solche, die in Lernverlaufsgrafiken visualisiert sind
+- um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, Lernverlaufsdiagnostik hilfreich; kann Lehrperson die auf Daten zurückgreifen und dabei auf Daten zurückgreifen
 - wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
   + z.B. um Studierende im Lernen zu unterstützen -> Probetest als Vorbereitung auf Klassenarbeit 
 
