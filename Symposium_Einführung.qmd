@@ -15,17 +15,15 @@ bibliography: references.bib
 csl: apa.csl
 title-slide-attributes: 
   data-notes: 
-  - freue mich auf spannendes Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
 ---
 
 ## Herzlich willkommen zum Symposium <br>"Förderung evidenzinformierter Handlungen von Lehrkräften"!
 
-<br> 
-<br>
-
-::: {style="font-size: 1.4em"}
+::: {style="font-size: 1.2em"}
 <center>
-#### {{< iconify simple-icons:osf >}} Alle Präsentationen finden Sie unter __[https://osf.io/dxkuw/](https://osf.io/dxkuw/){preview-link="true"}__ 
+{{< iconify simple-icons:osf >}} Alle Präsentationen finden Sie hier: <br>
+![](img/repo_symposium.png){width="250"}<br>
+__[https://osf.io/dxkuw/](https://osf.io/dxkuw/){preview-link="true"}__ 
 </center>
 :::
 
@@ -34,6 +32,11 @@ title-slide-attributes:
 Einführungsfolien cc-by {{< iconify mdi:creative-commons >}} unter <br> https://kirstinschmidt.github.io/GEBF_2025/
 :::
 
+::: notes
+
+- freue mich auf Symposium; Idee theoretische Einführung, die alle empirischen Beiträge rahmt
+
+::: 
 
 <!--
 ## Überblick
@@ -112,7 +115,7 @@ border: none !important;
   + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
 - um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, kann Lehrperson die Leistungsentwicklung ihrer SuS monitoren und dabei auf Daten zurückgreifen wie solche, die in Lernverlaufsgrafiken visualisiert sind
 - wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
-  + z.B. Probetest als Vorbereitung auf Klassenarbeit 
+  + z.B. um Studierende im Lernen zu unterstützen -> Probetest als Vorbereitung auf Klassenarbeit 
 
 - Rückgriff auf wissenschaftliche Evidenz wird als EISP
 :::
@@ -174,7 +177,6 @@ border: none !important;
 ::: notes
 
 - um evidenzinformiert zu handeln, müssen L. allerdrings einen komplexen Prozess durchlaufen
-  + um nochmals auf das Eingangsbeispiel zurückzugreifen
   + Anlass formulieren z.B. ein Problem, eine Weiterentwicklung
   + Zugriffsphase passende wissenschaftliche Quellen recherchieren
   + Evidenz sichten d.h. lesen und verstehen um in Schlussfolgerung zu Wissen zu kommen
@@ -224,7 +226,6 @@ border: none !important;
 
 :::
 
-<!--
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -241,7 +242,6 @@ border: none !important;
 
 :::
 
--->
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -313,7 +313,7 @@ border: none !important;
 ::: notes
 ... der Angebots oder Nutzenden-Seite zugeordnet werden
 
-- Nutzendenseite bezieht sich auf die Charaktaristika der (angehenden) Lehrpersonen
+- Nutzendenseite bezieht sich auf die Ausstattung der (angehenden) Lehrpersonen - evidenzinformiertes Handeln erleichtern
   - bspw. für wie nützlich sie wissenschaftlicher Evidenz einschätzen
   - oder ihr forschungsmethodisches Wissen
 - Angebot bezieht sich auf die wissenschaftliche Evidenz
@@ -322,7 +322,7 @@ border: none !important;
 - Zudem können sich beide Seiten gegenseitig beeinflussen
   + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit z.B. Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenkenerhöht werden
 - Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
-- Im Symposium sowohl die Nutzenden als auch Angebotsseite beleuchten und dabei sowohl Katalysatoren und Barrieren in den Blick nehmen, um der Komplexität EISP näher zu kommen und L. evidenzinformiertes Handeln zu erleichtern
+- Ziel des Symposiums Die Vielzahl der Studien Angebots- und Nutzendenseite zusammendenken  um der Komplexität EISP näher zu kommen und L. evidenzinformiertes Handeln zu erleichtern
 
 ::: 
 
@@ -377,8 +377,8 @@ border: none !important;
 
 ::: notes
 
-- im 2. Beitrag springen wir zur Nutzendenseite und Ingo Kollar geht der Frage nach welche Feedbackform Lehramtsstudierende im evidenzorientierten Denken unterstützen kann 
-- (Kommentar: hier Fokus auf Reflexionsfähigkeit)
+- im 2. Beitrag springen wir zur Nutzendenseite und Feedback als Katalysator 
+- Ingo Kollar geht der Frage nach welche Feedbackform Lehramtsstudierende im evidenzorientierten Denken unterstützen kann 
 
 :::
 
